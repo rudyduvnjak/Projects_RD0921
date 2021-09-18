@@ -19,3 +19,4 @@ More campaigns, more chances of success.
 We could try to correlate "Goal" amount to "success", "failed" and "canceled" rate to gain more 
 visibility why some campaigns are more successful than others. 
 It would be good to learn rate of return, and speed of return based on funding.
+"This is test for github pushin to the branch"
